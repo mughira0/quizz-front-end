@@ -1,0 +1,85 @@
+{
+  "user": [
+    {
+      "Subject": "Math",
+      "Teacher": "John Smith",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 80
+    },
+    {
+      "Subject": "Science",
+      "Teacher": "Jane Doe",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 65
+    },
+    {
+      "Subject": "English",
+      "Teacher": "Mike Johnson",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 90
+    },   {
+      "Subject": "Math",
+      "Teacher": "John Smith",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 80
+    },
+    {
+      "Subject": "Science",
+      "Teacher": "Jane Doe",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 65
+    },
+    {
+      "Subject": "English",
+      "Teacher": "Mike Johnson",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 90
+    },   {
+      "Subject": "Math",
+      "Teacher": "John Smith",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 80
+    },
+    {
+      "Subject": "Science",
+      "Teacher": "Jane Doe",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 65
+    },
+    {
+      "Subject": "English",
+      "Teacher": "Mike Johnson",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 90
+    },   {
+      "Subject": "Math",
+      "Teacher": "John Smith",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 80
+    },
+    {
+      "Subject": "Science",
+      "Teacher": "Jane Doe",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 45
+    },
+    {
+      "Subject": "English",
+      "Teacher": "Mike Johnson",
+      "Date": "2023-07-12",
+      "TotalMarks": 100,
+      "ObtainedMarks": 90
+    }
+  ]
+}
